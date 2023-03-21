@@ -53,6 +53,3 @@ npm start
 ![create](./images/img7.png)
 ![student](./images/img5.png)
 ![chat](./images/img6.png)
-# AttendanceManagement
-# AttendanceManagement
-# AttendanceManagement
